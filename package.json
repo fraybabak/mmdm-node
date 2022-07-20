@@ -1,0 +1,14 @@
+{
+  "name": "micromdm-node",
+  "version": "1.0.0",
+  "description": "micromdm commands in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fraybabak",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
